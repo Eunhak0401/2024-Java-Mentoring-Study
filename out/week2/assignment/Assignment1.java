@@ -1,6 +1,6 @@
 package assignment;
 
-public class assignment1 {
+public class Assignment1 {
     public static void main(String[] args) {
         String myName = "이은학";
         int myGrade = 1;
