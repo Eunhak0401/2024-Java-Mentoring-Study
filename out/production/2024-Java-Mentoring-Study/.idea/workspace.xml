@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9ccdcba-8a70-4a81-b197-2ac229b28ccd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.item/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.idea/2024-Java-Mentoring-Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.item/2024-Java-Mentoring-Study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.item/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.item/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/.item/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2024-Java-Mentoring-Study/index.class" afterDir="false" />
-    </list>
+    <list default="true" id="97486ea0-af48-4b44-8c01-100fe241b1cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
-        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -33,35 +25,105 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2ewwOiM3JiVSG2LoCvH7vrklyUu" />
+  <component name="ProjectId" id="2fEPrPt3wia8PrZWtrYX7db4nON" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.index.executor": "Run",
-    "Application.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/2024-Java-Mentoring-Study"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Americano.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Amricano.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReferenceVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.index.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.week2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/java study socetree&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="index" />
+}</component>
+  <component name="RunManager" selected="Application.assignment3">
+    <configuration name="Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Constant" />
       <module name="2024-Java-Mentoring-Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.assignment1" />
+      <module name="2024-Java-Mentoring-Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.assignment2" />
+      <module name="2024-Java-Mentoring-Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignment3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.assignment3" />
+      <module name="2024-Java-Mentoring-Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.assignment4" />
+      <module name="2024-Java-Mentoring-Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.index" />
+        <item itemvalue="Application.assignment3" />
+        <item itemvalue="Application.assignment4" />
+        <item itemvalue="Application.assignment2" />
+        <item itemvalue="Application.assignment1" />
+        <item itemvalue="Application.Constant" />
       </list>
     </recent_temporary>
   </component>
@@ -75,11 +137,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9ccdcba-8a70-4a81-b197-2ac229b28ccd" name="Changes" comment="" />
-      <created>1712828918159</created>
+      <changelist id="97486ea0-af48-4b44-8c01-100fe241b1cd" name="Changes" comment="" />
+      <created>1713363461383</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712828918159</updated>
+      <updated>1713363461383</updated>
     </task>
     <servers />
   </component>
@@ -87,26 +149,21 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/index.java</url>
-          <line>2</line>
-          <properties class="index" method="main">
+          <url>file://$PROJECT_DIR$/out/week2/variable.java</url>
+          <line>3</line>
+          <properties class="variable">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/index.java</url>
-          <line>35</line>
-          <properties class="index" method="main">
+          <url>file://$PROJECT_DIR$/out/week2/variable.java</url>
+          <line>2</line>
+          <properties class="variable" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/index.java</url>
-          <line>4</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
