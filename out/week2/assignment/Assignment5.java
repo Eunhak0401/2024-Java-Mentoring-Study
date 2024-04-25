@@ -8,6 +8,6 @@ public class Assignment5 {
         final double circle_Area = pi * circle_radius * circle_radius;
 
         System.out.println(circle_Area);
-        System.out.println((int)circle_Area);
+
     }
 }
