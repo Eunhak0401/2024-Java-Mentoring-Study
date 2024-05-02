@@ -1,12 +1,14 @@
 package week4;
 
-public class week4_1 {
+public class week4_7 {
     public static void main(String[] args) {
+        int i = 0;
         int sum = 0;
 
-        for(int i = 0; i <= 100; i++) {
+        do {
             sum += i;
-        }
+            i++;
+        }while(i <= 100);
         System.out.println(sum);
     }
 }
