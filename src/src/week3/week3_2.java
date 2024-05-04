@@ -3,11 +3,12 @@ public class week3_2 {
 
         boolean example = true;
 
-        if(example) {
+        if (example) {
             System.out.println("ok, true");
 
         } else {
             System.out.println("No, false");
+            
         }
     }
 }
