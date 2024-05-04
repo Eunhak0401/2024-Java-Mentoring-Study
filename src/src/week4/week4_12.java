@@ -12,3 +12,4 @@ public class week4_12 {
         System.out.println(sum);
     }
 }
+

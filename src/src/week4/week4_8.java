@@ -13,3 +13,4 @@ public class week4_8 {
         System.out.println("프로그램 종료");
     }
 }
+
