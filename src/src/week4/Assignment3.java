@@ -12,7 +12,6 @@ public class Assignment3 {
                 int num1 = scanner.nextInt();
                 System.out.println("case#" + i + ":" + (num + num1));
             }
-
         }
     }
 }
