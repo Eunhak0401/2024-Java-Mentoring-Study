@@ -15,8 +15,7 @@ public class Assignment2 {
             i++;
         }
         System.out.println(sum);
-
-
+        
 
     }
 }
