@@ -16,6 +16,5 @@ public class Assignment2 {
         }
         System.out.println(sum);
 
-
     }
 }
