@@ -18,6 +18,7 @@ public class Assignment1 {
         }
         if (num == num1) {
             System.out.println("==");
+            
         }
     }
 }

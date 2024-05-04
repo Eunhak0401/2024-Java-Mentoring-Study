@@ -8,7 +8,7 @@ public class week3_2 {
 
         } else {
             System.out.println("No, false");
-            
+
         }
     }
 }
