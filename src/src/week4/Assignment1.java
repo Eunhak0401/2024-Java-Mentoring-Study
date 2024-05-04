@@ -9,6 +9,7 @@ public class Assignment1 {
             int num = scanner.nextInt();
             int num1 = scanner.nextInt();
             System.out.println(num + num1);
+            
         }
     }
 }
