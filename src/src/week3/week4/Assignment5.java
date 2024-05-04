@@ -7,9 +7,9 @@ public class Assignment5 {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
 
-        for (int i = 0; i <= num; i++) {
+        for (int i = 0; i < num; i++) {
             for (int j = 0; j < num - i - 1; j++) {
-                System.out.println(" ");
+                System.out.print(" ");
             }
             for (int k = 0; k < i + 1; k++) {
                 System.out.print("*");
