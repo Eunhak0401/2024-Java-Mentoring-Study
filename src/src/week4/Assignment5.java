@@ -15,6 +15,7 @@ public class Assignment5 {
                 System.out.print("*");
             }
             System.out.println();
+            
         }
     }
 }
