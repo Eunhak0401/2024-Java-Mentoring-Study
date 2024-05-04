@@ -4,7 +4,6 @@ public class Constant {
 
         final int NUM = 5;
         System.out.println(NUM);
-
     }
 }
 
