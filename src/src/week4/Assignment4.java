@@ -12,6 +12,7 @@ public class Assignment4 {
                 System.out.print("*");
             }
             System.out.println();
+            
         }
     }
 }
