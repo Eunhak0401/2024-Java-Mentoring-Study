@@ -10,7 +10,7 @@ public class week5_13 {
         int[] array = new int[num];
 
         if (num >= 0){
-            
+
         }
         if(array[i] > max) {
             max = array[i];
