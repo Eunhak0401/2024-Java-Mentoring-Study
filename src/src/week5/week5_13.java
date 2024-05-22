@@ -34,13 +34,13 @@ public class week5_13 {
             for (int a : array) {
                 System.out.print(a + " ");
             }
-            System.out.println(); // 개행
+            System.out.println();
 
-            // 최소값과 최댓값 출력
+
             System.out.println("최소값: " + min);
             System.out.println("최댓값: " + max);
         }
-        scanner.close(); // Scanner 객체를 닫음
+        scanner.close();
     }
 }
 
