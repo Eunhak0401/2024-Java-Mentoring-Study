@@ -24,6 +24,6 @@ public class Circle extends Shape {
 
     @Override
     public String toString() {
-        return "Circle(center: (" + x + ", " + y + "), radius: " + radius + ")";
+        return "Circle(x: " + x + ", y:  " + y + ",  radius: " + radius + ")";
     }
 }

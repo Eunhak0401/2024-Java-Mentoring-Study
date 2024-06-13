@@ -8,22 +8,21 @@ public class BankProgram {
         boolean exit = false;
 
         while (!exit) {
-            System.out.println("\n1. 예금");
-            System.out.println("2. 출금");
-            System.out.println("3. 잔고 확인");
-            System.out.println("4. 종료");
-            System.out.print("선택: ");
+            System.out.println("----------------------------");
+            System.out.println("1.예금 | 2.출금 | 3.잔고 | 4.종료");
+            System.out.println("----------------------------");
+            System.out.print("선택> " );
             int choice = scanner.nextInt();
 
             switch (choice) {
                 case 1:
-                    System.out.print("입금할 금액을 입력하세요: ");
-                    double depositAmount = scanner.nextDouble();
+                    System.out.print("예금액> ");
+                    int depositAmount = scanner.nextInt();
                     account.deposit(depositAmount);
                     break;
                 case 2:
-                    System.out.print("출금할 금액을 입력하세요: ");
-                    double withdrawAmount = scanner.nextDouble();
+                    System.out.print("출금액> ");
+                    int withdrawAmount = scanner.nextInt();
                     account.withdraw(withdrawAmount);
                     break;
                 case 3:
@@ -38,7 +37,5 @@ public class BankProgram {
                     break;
             }
         }
-
-        scanner.close();
     }
 }

@@ -13,11 +13,5 @@ public class Point extends Shape {
     @Override
     public double getPerimeter() {
         return 0;
-    }
-
-    @Override
-    public String toString() {
-        return "Point(" + x + ", " + y + ")";
-    }
-}
+    }}
 

@@ -1,33 +1,33 @@
 package src.src.Bank;
 
 class BankAccount {
-    private double balance;
+    private int balance;
 
-    public BankAccount(double initialBalance) {
+    public BankAccount(int initialBalance) {
         this.balance = initialBalance;
     }
 
-    public void deposit(double amount) {
+    public void deposit(int amount) {
         if (amount > 0) {
             balance += amount;
-            System.out.println(amount + "원이 입금되었습니다.");
         } else {
             System.out.println("유효하지 않은 금액입니다.");
         }
     }
 
-    public void withdraw(double amount) {
+    public void withdraw(int amount) {
+
         if (amount > 0 && amount <= balance) {
             balance -= amount;
-            System.out.println(amount + "원이 출금되었습니다.");
         } else if (amount > balance) {
-            System.out.println("잔액이 부족합니다.");
+            System.out.println("잔고 부족");
+            System.out.println("부족금액: " + (balance - amount) * (-1) + "원" );
         } else {
             System.out.println("유효하지 않은 금액입니다.");
         }
     }
 
     public void checkBalance() {
-        System.out.println("현재 잔고: " + balance + "원");
+        System.out.println("잔고> " + balance);
     }
 }
