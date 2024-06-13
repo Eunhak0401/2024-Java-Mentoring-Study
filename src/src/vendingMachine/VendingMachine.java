@@ -10,7 +10,7 @@ public class VendingMachine {
         beverages = new Beverage[]{
                 new Beverage("콜라", 1500),
                 new Beverage("사이다", 1200),
-                new Beverage("물", 1000)
+                new Beverage("물", 1000),
         };
     }
 
